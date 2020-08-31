@@ -22,7 +22,9 @@ rileyduke@gmail.com
 
 ## Experience
 
-### Software Developer, aegif, Tokyo (2017-present)
+### Software Developer, ThinkCyte, Tokyo (2020-present)
+
+### Software Developer, aegif, Tokyo (2017-2020)
 - Design, development, and deployment of SSIS Accounts Receivable system for a large Japanese client. Also completed upgrades to a legacy front end solution (VB.NET/SQL Server) that accompanied the SSIS process. Proposed improvements to reduce a 30 minute process to a few minutes.
 - Sole developer and engineer of Java contract management system (Spring Boot, PostgreSQL, Mustache, Tomcat). Delivered project within 2 months. Project was subsequently passed to junior developers for later additions with no problems.
 - Many upgrades and bug fixes to open source tools managed by Aegif including dockerization of a Spring Boot / CouchDB application
