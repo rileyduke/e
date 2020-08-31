@@ -12,6 +12,8 @@ rileyduke@gmail.com
     - An angular application that mimics the popular Adventure Capitalist flash game. Built in less than 10 hours start to finish as a challenge
 - [ ongoing ] Flash Card Generator: https://github.com/rileyduke/flask.flash_card_study
     - A react native application intended to automatically generate audio flashcards and import them into Ankidroid
+- [ ongoing ] WinUI 3.0 Code Samples for C++: https://github.com/rileyduke/WinUI3_CodeSamples
+    - Currently it is difficult to find WinUI 3.0 code samples for WinUI 3.0 so I've created a few where I couldn't find anything online.
 
 ## Skills
 
